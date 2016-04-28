@@ -1,0 +1,2 @@
+This is a sample file.
+A trial commit to the new repo
